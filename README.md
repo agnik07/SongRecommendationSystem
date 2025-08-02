@@ -37,6 +37,8 @@ The system is trained on a dataset of song lyrics (`spotify_millsongdata.csv`) c
 
 The dataset is preprocessed to remove irrelevant columns and clean the text data before training.
 
+**Dataset Source**: The dataset used in this project is from Kaggle: [Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+
 ## Technologies Used
 
 - **Python**: Core programming language
